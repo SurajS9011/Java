@@ -7,10 +7,6 @@ public class Main {
         System.out.println(str);
         int age= 24;
         
-
-
-
-
     }
 }
 
